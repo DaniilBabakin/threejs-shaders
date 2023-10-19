@@ -2,7 +2,7 @@
   "name": "three-shaders",
   "version": "3.0.1",
   "description": "Three.js webpack 5 boilerplate using Babel and PostCSS and Gsap.",
-  "main": "index.js",
+  "main": "index.html",
   "author": "Daniel Babakin",
   "license": "MIT",
   "scripts": {
