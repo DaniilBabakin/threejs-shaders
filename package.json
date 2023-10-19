@@ -1,9 +1,9 @@
 {
-  "name": "three-boilerplate",
+  "name": "three-shaders",
   "version": "3.0.1",
   "description": "Three.js webpack 5 boilerplate using Babel and PostCSS and Gsap.",
   "main": "index.js",
-  "author": "Arya",
+  "author": "Daniel Babakin",
   "license": "MIT",
   "scripts": {
     "start": "cross-env NODE_ENV=development webpack serve --config config/webpack.dev.js",

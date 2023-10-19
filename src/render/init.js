@@ -32,6 +32,8 @@ export const initEngine = async () => {
   renderer = new THREE.WebGLRenderer({ antialias: true })
   renderer.setSize(renderWidth, renderHeight)
 
+  renderer.setClearColor(0x151515)
+
   // shadow
   renderer.shadowMap.enabled = true
   renderer.shadowMap.type = THREE.PCFSoftShadowMap
